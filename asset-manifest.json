@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ShopProductCard/static/css/main.41332929.css",
+    "main.js": "/ShopProductCard/static/js/main.65ba3d71.js",
+    "static/js/787.5b743b58.chunk.js": "/ShopProductCard/static/js/787.5b743b58.chunk.js",
+    "static/media/img1.jpeg": "/ShopProductCard/static/media/img1.b5cb85ef4ec38d75bdbd.jpeg",
+    "static/media/img2.jpg": "/ShopProductCard/static/media/img2.8c0b8b0bbae375377049.jpg",
+    "index.html": "/ShopProductCard/index.html",
+    "main.41332929.css.map": "/ShopProductCard/static/css/main.41332929.css.map",
+    "main.65ba3d71.js.map": "/ShopProductCard/static/js/main.65ba3d71.js.map",
+    "787.5b743b58.chunk.js.map": "/ShopProductCard/static/js/787.5b743b58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41332929.css",
+    "static/js/main.65ba3d71.js"
+  ]
+}
